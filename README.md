@@ -19,9 +19,7 @@
   
   **Contact**
   
-  With Any Issues Contact HenreeQT on Discord:
-  
-  HenreeQT#1273
+  Want to talk? My Discord is HenreeQT#1273
   
   
   Have a great day, and thanks for checking out ConsoleFaces!
