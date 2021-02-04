@@ -15,6 +15,8 @@
   `cd consolefaces`
   
   `python3 cfboot.py`
+
+Note that the folder you want is in the unzipped folder
   
   
   **Contact**
