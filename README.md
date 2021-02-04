@@ -2,7 +2,7 @@
 
 **Installation**
 
-1 > Download Python 3 for Windows if not installed
+1 > Download Python 3 for Windows if not installed (made for Windows, but can run on Linux and probably Mac)
 
 2 > Right click the .zip file that was downloaded and press 'Extract All'
 
@@ -23,6 +23,8 @@ Note that the folder you want is in the unzipped folder
   **Contact**
   
   Want to talk? My Discord is HenreeQT#1273
+  
+  
   
   
   Have a great day, and thanks for checking out ConsoleFaces!
